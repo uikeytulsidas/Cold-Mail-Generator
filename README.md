@@ -83,6 +83,8 @@ Copy & use the email directly
 ---
 
 📸 Screenshots
+<img width="1888" height="878" alt="Screenshot 2025-08-21 194047" src="https://github.com/user-attachments/assets/16a87d2a-59fa-4713-baa3-e4eb1d96f6e1" />
+<img width="1869" height="863" alt="Screenshot 2025-08-21 200758" src="https://github.com/user-attachments/assets/eb521185-5f36-4ce2-9e4b-2390c238fb78" />
 
 ---
 
